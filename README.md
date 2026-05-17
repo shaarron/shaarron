@@ -10,6 +10,9 @@ I specialize in building scalable cloud architecture, automating CI/CD pipelines
 ### 📜 Certifications
 
 <!-- START CREDLY BADGES -->
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/150x150/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/ec4e1602-d2a4-49d4-a778-d2838caa7d19)
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/31474dfc-d895-49a7-870d-e4361a799188)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/08ddad6c-5b89-4d9d-9297-e16ca0f7f019)
 <!-- END CREDLY BADGES -->
 
 
