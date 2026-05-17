@@ -15,9 +15,6 @@ I specialize in building scalable cloud architecture, automating CI/CD pipelines
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/08ddad6c-5b89-4d9d-9297-e16ca0f7f019)
 <!-- END CREDLY BADGES -->
 
-
- [**Verify on Credly**](https://www.credly.com/users/sharon-krochkovich/badges)
-
 ---
 
 ### 🛠️ Technical Stack
